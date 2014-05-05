@@ -1,1 +1,22 @@
 @import 'bootstrap';
+
+body {
+	background: url('coffee.jpg')
+			no-repeat center center fixed; 
+		  -webkit-background-size: cover;
+		  -moz-background-size: cover;
+		  -o-background-size: cover;
+		  background-size: cover;
+	}
+
+h1 {
+	color: white;
+}
+
+p { color: white;
+
+}
+
+.box {
+	background-color: rgba(0,0,0,0.5);
+}
